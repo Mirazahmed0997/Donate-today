@@ -1,0 +1,121 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    font-size: 50;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+span {
+    color: white;
+}
+
+.heroimg {
+    background-image: url(images/donation13.jpg);
+    height: 100%;
+    padding-bottom: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+
+.hero-text {
+
+    font-size: larger;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: gold;
+    font-weight: 700;
+}
+
+button {
+    background-color: tomato;
+    color: black;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 900;
+}
+
+.mid {
+    text-align: center;
+    padding-top: 10%;
+}
+
+#amount {
+    border: 2px solid white;
+    margin: 10px;
+    padding: 30px;
+
+}
+
+.amount-cls {
+    display: flex;
+    text-align: center;
+    padding-left: 30%;
+    padding-top: 5%;
+}
+
+.underline {
+    color: rgba(128, 128, 128, 0.671);
+}
+
+.sec-mid {
+    padding-top: 10%;
+}
+
+.planheader {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.plan {
+    display: flex;
+
+}
+
+.D-plan {
+    width: 80%;
+    border: 10px solid white margin 5px;
+    padding: 50px;
+
+    margin: 20px;
+}
+
+.a {
+    background-color: antiquewhite;
+}
+
+.b {
+    background-color: rgba(0, 255, 255, 0.411);
+}
+
+.c {
+    background-color: aliceblue;
+}
+
+.last {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.mail-box {
+    border: 20px;
+    margin: 100px;
+    background-color: blanchedalmond;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#email-button {
+    padding: 0%;
+    border: 0ch;
+    padding-left: 2px;
+}
